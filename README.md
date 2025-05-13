@@ -20,7 +20,7 @@ Nhóm chúng tôi đạt **Top 2 vòng 1** với phần trình bày insight và 
 |--------|-------|
 | `TADA_Report.pdf` | Báo cáo chính thức của nhóm trình bày toàn bộ quy trình phân tích và giải pháp |
 | `DATAEXPLORERS_TADA_DASHBOARD.pbix` | Dashboard trình bày cho vòng thi chính thức |
-| `DATAEXPLORERS_TADA_FINAL.pdf` | Bản PDF bài báo cáo của nhóm |
+| `TADA_Report.pdf` | Bản PDF bài báo cáo của nhóm |
 
 ## Dashboard Preview
 
@@ -39,7 +39,7 @@ Nhóm chúng tôi đạt **Top 2 vòng 1** với phần trình bày insight và 
 
 ## Kỹ năng & Công cụ sử dụng
 
-- Data modelling phù hợp với logic bài toán
+- Data modelling phù hợp với logic bài toán bằng Power BI
 - Viết công thức tính toán nâng cao bằng **DAX** trong Power BI
 - Trực quan hóa dữ liệu bằng Power BI: biểu đồ, KPI, drill-down, filter
 - Phân tích hành vi người dùng từ dữ liệu thô và đề bài cuộc thi
