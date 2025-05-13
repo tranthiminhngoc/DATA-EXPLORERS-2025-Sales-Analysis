@@ -18,9 +18,9 @@ Nhóm chúng tôi đạt **Top 2 vòng 1** với phần trình bày insight và 
 
 | Tên tệp | Mô tả |
 |--------|-------|
-| `TADA_Report.pdf` | Báo cáo chính thức của nhóm trình bày toàn bộ quy trình phân tích và giải pháp |
+| `TADA_Report.pdf` | Báo cáo của nhóm trình bày toàn bộ quy trình phân tích và giải pháp |
 | `DATAEXPLORERS_TADA_DASHBOARD.pbix` | Dashboard trình bày cho vòng thi chính thức |
-| `TADA_Report.pdf` | Bản PDF bài báo cáo của nhóm |
+| `DataExplorers_R1_Dataset.xlsx` | Bộ dữ liệu được BTC cuộc thi cung cấp |
 
 ## Dashboard Preview
 
