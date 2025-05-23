@@ -1,17 +1,17 @@
-# Data Explorers 2024 – TADA Team Submission
+# Data Explorers 2025 – TADA Team Submission
 
-Dự án này được thực hiện bởi nhóm **TADA** trong khuôn khổ cuộc thi **Data Explorers 2024**, với mục tiêu phân tích và đề xuất chiến lược dựa trên bộ dữ liệu thực tế.  
+Dự án này được thực hiện bởi nhóm **TADA** trong khuôn khổ cuộc thi **Data Explorers 2025**, với mục tiêu phân tích và đề xuất chiến lược dựa trên bộ dữ liệu thực tế.  
 Chúng tôi đã sử dụng kỹ thuật phân tích dữ liệu, trực quan hóa, và storytelling để trình bày giải pháp một cách rõ ràng và thuyết phục.
 
 ## Thông tin cuộc thi
 
-- **Tên cuộc thi:** Data Explorers 2024
+- **Tên cuộc thi:** Data Explorers 2025
 - **Mục tiêu đề bài:** Phân tích trực quan dữ liệu đã cho và kể lại câu chuyện kinh doanh của công ty, từ đó đưa ra những đề xuất phát triển đột phá cho năm tới
 
 ## Thành tích
 
-Dự án này được thực hiện trong khuôn khổ cuộc thi **Data Explorers 2024**.  
-Nhóm chúng tôi đạt **Top 2 vòng 1** với phần trình bày insight và trực quan hóa dữ liệu kinh doanh bằng Power BI.
+Dự án này được thực hiện trong khuôn khổ cuộc thi **Data Explorers 2025**.  
+Nhóm chúng tôi đạt **Top 2** với phần trình bày insight và trực quan hóa dữ liệu kinh doanh bằng Power BI.
 
 
 ## Thành phần chính trong dự án
